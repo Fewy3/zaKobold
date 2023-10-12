@@ -51,3 +51,4 @@ dependencies:
     - --find-links=https://0cc4m.github.io/KoboldAI/gptq-whl-links.html
     - gptq_koboldai==0.0.6
     - einops
+    - Werkzeug==2.*
